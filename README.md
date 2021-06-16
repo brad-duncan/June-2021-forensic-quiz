@@ -1,6 +1,6 @@
 # June-2021-forensic-quiz
 
-This is a github repository for the Internet Storm Center (ISC) June 2021 Forensic Quiz. The contest is located here: https://isc.sans.edu/forums/diary/June+2021+Forensic+Quiz/27532/
+This is a github repository for the Internet Storm Center (ISC) June 2021 Forensic Contest. The contest is located here: https://isc.sans.edu/forums/diary/June+2021+Forensic+Contest/27532/
 
 Password for the zip archive in this repository is: infected
 
